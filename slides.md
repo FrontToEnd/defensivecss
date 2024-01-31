@@ -2,7 +2,7 @@
 theme: seriph
 class: text-center
 highlighter: shikiji
-background: '/public/1.jpeg'
+background: 'https://image-static.segmentfault.com/379/870/3798700367-65ba4c493ded8_fix732'
 fonts:
   # 基础字体
   sans: 'Robot'
