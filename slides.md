@@ -2,7 +2,7 @@
 theme: seriph
 class: text-center
 highlighter: shikiji
-background: './images/1.jpeg'
+background: '/public/1.jpeg'
 fonts:
   # 基础字体
   sans: 'Robot'
